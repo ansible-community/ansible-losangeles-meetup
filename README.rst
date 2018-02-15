@@ -1,7 +1,7 @@
 ansible-montreal-meetup
 =======================
 
-This repository holds interesting data about the `Ansible Montreal`_ meetup.
+This repository holds interesting data about the `Ansible Los Angeles`_ meetup.
 It is inspired by the work of `keithresar`_ for the `Ansible Minneapolis`_
 meetup.
 
@@ -11,7 +11,7 @@ the community.
 Ultimately, the attendees know best what they would like to hear about.
 We'd like to hear your ideas and opinions on what should be in the next meetup!
 
-.. _Ansible Montreal: https://www.meetup.com/Ansible-Montreal/
+.. _Ansible Los Angeles: https://www.meetup.com/Ansible-Los-Angeles/
 .. _keithresar: https://github.com/keithresar
 .. _Ansible Minneapolis: https://github.com/keithresar/ansible-minneapolis-meetup-topics
 
@@ -23,7 +23,7 @@ through the issues_.
 If you'd like to see a presentation about something and it isn't there, feel
 free to create a new issue !
 
-.. _issues: https://github.com/ansible-community/ansible-montreal-meetup/issues
+.. _issues: https://github.com/ansible-community/ansible-losangeles-meetup/issues
 
 Submitting a talk
 =================
@@ -37,12 +37,12 @@ presentations_ for talks that have been done.
 
 Otherwise, submissions might be kept for the next meetup !
 
-.. _here: https://github.com/ansible-community/ansible-montreal-meetup/blob/master/submissions/example.md
-.. _presentations: https://github.com/ansible-community/ansible-montreal-meetup/tree/master/presentations
+.. _here: https://github.com/ansible-community/ansible-losangeles-meetup/blob/master/submissions/example.md
+.. _presentations: https://github.com/ansible-community/ansible-losangeles-meetup/tree/master/presentations
 
 Contributing
 ============
 
 Contributing to the repository is as easy as submitting a `pull request`_ !
 
-.. _pull request: https://github.com/ansible-community/ansible-montreal-meetup/pulls
+.. _pull request: https://github.com/ansible-community/ansible-losangeles-meetup/pulls
