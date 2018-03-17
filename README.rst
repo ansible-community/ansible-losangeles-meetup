@@ -1,4 +1,4 @@
-ansible-montreal-meetup
+ansible-losangeles-meetup
 =======================
 
 This repository holds interesting data about the `Ansible Los Angeles`_ meetup.
